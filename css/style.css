@@ -1,0 +1,21 @@
+h1 {
+    color: goldenrod;
+}
+h2 {
+    color: mediumblue;
+}
+p {
+    color: greenyellow;
+}
+li {
+    color: lawngreen;
+}
+table {
+    color: black;
+}
+caption {
+    color: rgb(126, 25, 241);
+}
+thead {
+    color: brown;
+}

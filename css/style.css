@@ -1,5 +1,13 @@
+@font-face {
+    font-family: Oswald;
+    src: url("fonts/Oswald/Oswald-Regular.ttf")
+    font-weight: 500;
+}
+
+
 h1 {
     color: goldenrod;
+    font-family: oswald;
 }
 h2 {
     color: mediumblue;
@@ -18,4 +26,8 @@ caption {
 }
 thead {
     color: brown;
+}
+img {
+    width: 200px;
+    height: 200px;
 }

@@ -25,9 +25,8 @@ color: darkmagenta;
 }
 @font-face {
     font-family: Oswald;
-    src: url("fonts/Oswald/Oswald-Regular.ttf")
-    font-weight: 500;
-}
+    src: url("/css/fonts/oswald/Oswald-Regular.ttf")
+    }
 h1 {
     color:brown;
     font-family: oswald;

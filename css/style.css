@@ -1,3 +1,36 @@
+#menu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+    text-align: center;
+    
+    
+}
+#menu li {
+float: left;
+border: 1px solid #000;
+margin-right: 20px;
+background: darkblue;
+}
+#menu li a {
+padding: 10px 20px;
+display: block;
+text-decoration: none;
+color: darkmagenta;
+}
+#menu li a:hover {
+    background: #000000;
+    color: cornsilk;
+}
+
+
+
+
+
 @font-face {
     font-family: Oswald;
     src: url("fonts/Oswald/Oswald-Regular.ttf")
@@ -6,8 +39,9 @@
 
 
 h1 {
-    color: goldenrod;
+    color:brown;
     font-family: oswald;
+   text-align: center;
 }
 h2 {
     color: mediumblue;

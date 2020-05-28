@@ -1,5 +1,5 @@
 #menu {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: ChelseaMarket-Regular, Arial, Helvetica, sans-serif;
     font-size: 12px;
     font-weight: bold;
     list-style: none;
@@ -26,10 +26,13 @@ color: darkmagenta;
 @font-face {
     font-family: Oswald;
     src: url("/css/fonts/oswald/Oswald-Regular.ttf")
+    
+    src: url("/css/fonts/Chelsea_Market/ChelseaMarket-Regular.ttf")
+   
     }
 h1 {
     color:brown;
-    font-family: oswald;
+    font-family: ChelseaMarket-Regular;
    text-align: center;
 }
 h2 {

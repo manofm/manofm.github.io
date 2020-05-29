@@ -1,12 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&display=swap')
+background: gold;
 #cim {
+    background: gold;
     font-family: 'Anton','Chelsea Market',cursive, Arial, Helvetica, sans-serif;
     font-weight: bold;
     align-self: center;
     color: brown;
-
 }
 #sor p {
+    background: gold;
     font-family: 'Pacifico', cursive;
     font-weight: bold;
+}
+img {
+    background: gold;
+    width: 200px;
+}
+#Infó {
+    background: gold;
+    color: darkviolet;
+    font-family: 'pacifico', cursive;
+}
+#Béka {
+    background: gold;
+    color: darkviolet;
+    font-family: 'pacifico', cursive;
+}
+#egy {
+    background: gold;
+    color: red;
+    font-family: 'pacifico', cursive;
+}
+#ketö {
+    background: gold;
+    color: white;
+    font-family: 'pacifico', cursive;
+}
+#három {
+    background: gold;
+    color: green;
+    font-family: 'pacifico', cursive;
 }

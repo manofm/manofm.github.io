@@ -2,7 +2,7 @@
 
 #cim {
     background: gold;
-    font-family: 'Anton','Chelsea Market',cursive, Arial, Helvetica, sans-serif;
+    font-family: 'pacifico', cursive;
     font-weight: bold;
     align-self: center;
     color: brown;
@@ -26,18 +26,12 @@ img {
     color: darkviolet;
     font-family: 'pacifico', cursive;
 }
-#egy {
+.content {
     background: gold;
-    color: red;
     font-family: 'pacifico', cursive;
-}
-#ketö {
-    background: gold;
-    color: white;
-    font-family: 'pacifico', cursive;
-}
-#három {
-    background: gold;
-    color: green;
-    font-family: 'pacifico', cursive;
+	font-size:24px;
+	text-align: left;
+	text-transform: lowercase;
+	line-height: normal;
+	font-weight: lighter;
 }

@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&display=swap')
 #cim {
     font-family: 'Anton','Chelsea Market',cursive, Arial, Helvetica, sans-serif;
     font-weight: bold;
     align-self: center;
     color: brown;
+
 }
 #sor {
-    font-family: 'Pacifico', Pacifico-Regular,; 
+    font-family: 'Pacifico', cursive;
 }

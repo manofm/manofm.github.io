@@ -20,6 +20,8 @@ display: block;
 text-decoration: none;
 color: darkmagenta;
 align-self: center;
+box-shadow: 3px 3px 7px  brown;
+margin: 10px;
 }
 #menu li a:hover {
     background: #000000;

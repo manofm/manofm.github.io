@@ -1,20 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&display=swap')
 
-#cim {
-    background: gold;
-    font-family: 'pacifico', cursive;
-    font-weight: bold;
-    align-self: center;
-    color: brown;
-    }
+
 #sor p {
     background: gold;
     font-family: 'Pacifico', cursive;
     font-weight: bold;
 }
 img {
-    background: gold;
     width: 200px;
+    box-shadow: 3px 3px 7px  brown;
+    margin: 10px;
 }
 #Infó {
     background: gold;
@@ -31,7 +26,15 @@ img {
     font-family: 'pacifico', cursive;
 	font-size:24px;
 	text-align: left;
-	text-transform: lowercase;
 	line-height: normal;
-	font-weight: lighter;
+    font-weight: lighter;
+    margin: 10px 10px 10px 10px;
+    border: solid 1px  blue;
+    padding: 10px 10px 10px 10px;
+}
+.bold {
+    font-weight: bold;
+}
+.img-div {
+    background-color: deepskyblue;
 }

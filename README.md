@@ -1,2 +1,0 @@
-# manofm.github.io
-kajakucko

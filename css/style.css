@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&display=swap')
-
 #sor p {
     background: gold;
     font-family: 'Pacifico', cursive;
@@ -36,4 +35,9 @@ img {
 }
 .img-div {
     background-color: deepskyblue;
+}
+#fej {
+    background: gold;
+    color: darkviolet;
+    font-family: 'pacifico', cursive;
 }

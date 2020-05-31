@@ -4,10 +4,16 @@
     font-family: 'Pacifico', cursive;
     font-weight: bold;
 }
-img {
+#img {
     width: 200px;
     box-shadow: 3px 3px 7px  brown;
     margin: 10px;
+}
+#rend {
+    width: 200px;
+    box-shadow: 3px 3px 7px  brown;
+    margin: 10px; 
+    align-content: end;
 }
 #Infó {
     background: gold;

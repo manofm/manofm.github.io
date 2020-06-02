@@ -62,3 +62,11 @@
     box-shadow: 3px 3px 7px  brown;
     margin: 10px;
 }
+#et {
+    background:rgb(13, 157, 214);
+    color: blue;
+    font-family: 'pacifico', cursive;
+    font-weight: bold;
+    font-size: 24px;
+    font-style: italic;
+}

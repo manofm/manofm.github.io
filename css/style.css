@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&display=swap')
 #sor p {
-    background: gold;
+    background:rgb(13, 157, 214);
     font-family: 'Pacifico', cursive;
     font-weight: bold;
 }
@@ -16,17 +16,17 @@
     align-content: end;
 }
 #Infó {
-    background: gold;
-    color: darkviolet;
+    background: rgb(13, 157, 214);
+    color: red;
     font-family: 'pacifico', cursive;
 }
 #Béka {
-    background: gold;
-    color: darkviolet;
+    background: rgb(13, 157, 214);
+    color: red;
     font-family: 'pacifico', cursive;
 }
 .content {
-    background: gold;
+    background: rgb(13, 157, 214);
     font-family: 'pacifico', cursive;
 	font-size:24px;
 	text-align: left;
@@ -44,8 +44,8 @@
     background-color: deepskyblue;
 }
 #fej {
-    background: gold;
-    color: darkviolet;
+    background:rgb(13, 157, 214);
+    color: red;
     font-family: 'pacifico', cursive;
 }
 #img-1 {

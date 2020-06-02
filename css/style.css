@@ -35,6 +35,7 @@
     margin: 10px 10px 10px 10px;
     border: solid 1px  blue;
     padding: 10px 10px 10px 10px;
+    max-width: 75%; 
 }
 .bold {
     font-weight: bold;
@@ -46,4 +47,16 @@
     background: gold;
     color: darkviolet;
     font-family: 'pacifico', cursive;
+}
+#img-1 {
+    position: relative;
+    top: 10px;
+    width: 200px;
+    box-shadow: 3px 3px 7px  brown;
+    margin: 10px;
+}
+#img-2 {
+    width: 100px;
+    box-shadow: 3px 3px 7px  brown;
+    margin: 10px;
 }

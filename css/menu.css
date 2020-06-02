@@ -12,15 +12,15 @@
 float: left;
 border: 1px solid #000;
 margin-right: 0px;
-background: darkblue;
+background: rgb(55, 114, 138);
 }
 #menu li a {
 padding: 10px 20px;
 display: block;
 text-decoration: none;
-color: darkmagenta;
+color: black;
 align-self: center;
-box-shadow: 3px 3px 7px  brown;
+box-shadow: 3px 3px 7px  blue;
 margin: 10px;
 }
 #menu li a:hover {
@@ -38,15 +38,15 @@ margin: 10px;
 #menu1 li {
     border: 1px solid #000;
     margin-bottom: 1px;
-    background: darkblue;
+    background: darkred;
 }
 #menu1 li a {
     padding: 10px 40px;
     display: block;
     text-decoration: none;
-    color: darkmagenta;
+    color: floralwhite;
     align-self: center;
-    box-shadow: 3px 3px 7px  brown;
+    box-shadow: 3px 3px 7px  floralwhite;
     margin: 10px;
 }
 #menu li a:hover {

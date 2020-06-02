@@ -17,8 +17,9 @@
 }
 #Infó {
     background: rgb(13, 157, 214);
-    color: red;
+    color: blue;
     font-family: 'pacifico', cursive;
+    font-weight: bold;
 }
 #Béka {
     background: rgb(13, 157, 214);
@@ -45,8 +46,9 @@
 }
 #fej {
     background:rgb(13, 157, 214);
-    color: red;
+    color: blue;
     font-family: 'pacifico', cursive;
+    font-weight: bold;
 }
 #img-1 {
     position: relative;

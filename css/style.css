@@ -70,3 +70,16 @@
     font-size: 24px;
     font-style: italic;
 }
+.et1 {
+    background: rgb(13, 157, 214);
+    font-family: 'pacifico', cursive;
+    font-size:24px;
+    color: burlywood;
+	text-align: center;
+	line-height: normal;
+    font-weight: lighter;
+    margin: 10px 10px 10px 10px;
+    border: solid 1px  blue;
+    padding: 10px 10px 10px 10px;
+    max-width: 75%; 
+}

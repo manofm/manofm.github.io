@@ -1,0 +1,37 @@
+body {
+    background-color: turquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.login-div {
+    padding: 15px;
+    border: solid 1px blue;
+    box-shadow: 0 0 2px tomato;
+}
+
+.login-div input {
+    padding: 3px;
+    display: block;
+    margin-bottom: 7px;
+}
+
+input[class*="control"] {
+   display: block;
+}
+
+input[class^="blue"] {
+    border: solid 1px blue;
+}
+
+input[class$="red"] {
+    border: solid 1px red;
+}
+
+.login-div button:hover {
+    box-shadow: 2px 2px 3px purple;
+}
+
+.login-div input:focus {
+    box-shadow: 2px 2px 3px purple;
+    border: none;
+}
